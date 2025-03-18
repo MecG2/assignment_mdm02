@@ -13,13 +13,13 @@ mdm02_parte_pezzo
 
 Dove:
 
-- **mdm02**: Identificativo del modello
-- **parte**: Sezione del modello (es. 01 per metacarpo, 02 per dito, 03 per pollice)
-- **pezzo**: Identificativo univoco del pezzo all’interno della parte
+- **mdm02**: Project name  
+- **parte**: Select part (e.g., 01 for metacarpus, 02 for finger, 03 for thumb)
+- **pezzo**: Unique identifier for the piece within the part
 
 ## Descrizione
 
-Questo progetto riguarda l'assemblaggio e la struttura del modello **mdm02**. Il progetto è suddiviso in componenti principali, ognuno dei quali è descritto in dettaglio con immagini esplicative e riferimenti ai pezzi utilizzati.
+This project concerns the assembly and structure of the model mdm02. The project is divided into main components, each of which is described in detail with explanatory images and references to the pieces used.
 
 
 
@@ -28,14 +28,14 @@ Questo progetto riguarda l'assemblaggio e la struttura del modello **mdm02**. Il
 ## Componenti Principali e Movimenti
 
 
-| Sezione   | Descrizione                                         | Immagine |
+| Section   | Description                                         | Image |
 | --------- | --------------------------------------------------- | -------- |
-| ASM       | File di assemblaggio: `mdm02_00.asm`                |          |
-| Metacarpo | Assemblaggio del metacarpo `mdm02_01`, con i pezzi: |          |
+| ASM       |  Assembly file: `mdm02_00.asm`                      |          |
+| Metacarpo | Assembly of the metacarpus `mdm02_01`, with the pieces: |          |
 |           | - mdm02\_01\_06                                     |          |
 |           | - mdm02\_01\_07                                     |          |
 |           | - mdm02\_01\_11                                     |          |
-| Dito      | Assemblaggio del dito `mdm02_02`, con i pezzi:      |          |
+| Dito      |Assembly of the finger  `mdm02_02`, with the pieces:      |          |
 |           | - mdm02\_02\_03                                     |          |
 |           | - mdm02\_02\_14                                     |          |
 |           | - mdm02\_02\_08                                     |          |
@@ -45,7 +45,7 @@ Questo progetto riguarda l'assemblaggio e la struttura del modello **mdm02**. Il
 |           | - mdm02\_02\_09                                     |          |
 |           |                                                     |          |
 |           |                                                     |          |
-| Pollice   | Assemblaggio del pollice `mdm02_03`, con i pezzi:   |          |
+| Thumb   | Assembly of the thumb `mdm02_03`, con i pezzi:   |          |
 |           | - mdm02\_03\_02                                     |          |
 |           | - mdm02\_03\_13                                     |          |
 |           | - mdm02\_03\_12                                     |          |
@@ -58,23 +58,21 @@ Questo progetto riguarda l'assemblaggio e la struttura del modello **mdm02**. Il
 
 | Sezione                      | Descrizione                                               | Immagine |
 | ---------------------------- | --------------------------------------------------------- | -------- |
-| Movimenti Articolari Dito    | Movimenti articolari del dito `mdm02_04`, con i pezzi:    | N/A      |
+|Finger Joint Movements    | Finger joint movements  `mdm02_04`, with the pieces:   | N/A      |
 |                              | - mdm02\_04\_01                                           |          |
 |                              | - mdm02\_04\_02                                           |          |
 |                              | - mdm02\_04\_03                                           |          |
 |                              | - mdm02\_04\_04                                           |          |
-| Movimenti Articolari Pollice | Movimenti articolari del pollice `mdm02_05`, con i pezzi: | N/A      |
+|Thumb Joint Movements | Thumb joint movements `mdm02_05`,  with the pieces: | N/A      |
 |                              | - mdm02\_05\_01                                           |          |
 |                              | - mdm02\_05\_02                                           |          |
 |                              | - mdm02\_05\_03                                           |          |
 
 
-## Istruzioni di Installazione
-
-1. Verificare la presenza di tutti i componenti elencati.
-2. Seguire le immagini guida per l'assemblaggio.
-3. Assicurarsi di rispettare l'ordine dei pezzi indicati per un corretto montaggio.
-
+nstallation Instructions
+Verify the presence of all the listed components.
+Follow the guide images for assembly.
+Ensure the correct order of the pieces for proper assembly.
 ## Autore
 
 Christian Negri Ravera
