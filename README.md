@@ -27,17 +27,6 @@ Questo progetto riguarda l'assemblaggio e la struttura del modello **mdm02**. Il
 
 ## Componenti Principali e Movimenti
 
-| Sezione                      | Descrizione                                               | Immagine |
-| ---------------------------- | --------------------------------------------------------- | -------- |
-| Movimenti Articolari Dito    | Movimenti articolari del dito `mdm02_04`, con i pezzi:    | N/A      |
-|                              | - mdm02\_04\_01                                           |          |
-|                              | - mdm02\_04\_02                                           |          |
-|                              | - mdm02\_04\_03                                           |          |
-|                              | - mdm02\_04\_04                                           |          |
-| Movimenti Articolari Pollice | Movimenti articolari del pollice `mdm02_05`, con i pezzi: | N/A      |
-|                              | - mdm02\_05\_01                                           |          |
-|                              | - mdm02\_05\_02                                           |          |
-|                              | - mdm02\_05\_03                                           |          |
 
 | Sezione   | Descrizione                                         | Immagine |
 | --------- | --------------------------------------------------- | -------- |
@@ -66,6 +55,19 @@ Questo progetto riguarda l'assemblaggio e la struttura del modello **mdm02**. Il
 |           |                                                     |          |
 
 ---
+
+| Sezione                      | Descrizione                                               | Immagine |
+| ---------------------------- | --------------------------------------------------------- | -------- |
+| Movimenti Articolari Dito    | Movimenti articolari del dito `mdm02_04`, con i pezzi:    | N/A      |
+|                              | - mdm02\_04\_01                                           |          |
+|                              | - mdm02\_04\_02                                           |          |
+|                              | - mdm02\_04\_03                                           |          |
+|                              | - mdm02\_04\_04                                           |          |
+| Movimenti Articolari Pollice | Movimenti articolari del pollice `mdm02_05`, con i pezzi: | N/A      |
+|                              | - mdm02\_05\_01                                           |          |
+|                              | - mdm02\_05\_02                                           |          |
+|                              | - mdm02\_05\_03                                           |          |
+
 
 ## Istruzioni di Installazione
 
