@@ -32,7 +32,7 @@ This project concerns the assembly and structure of the model mdm02. The project
 | --------- | --------------------------------------------------- | -------- |
 | ASM       |  Assembly file: `mdm02_00.asm`                      |          |
 | Metacarpo | Assembly of the metacarpus `mdm02_01`, with the pieces: |          |
-|           | - mdm02\_01\_06                                     | [metacarpus]{./imgs/image 3.png}         |
+|           | - mdm02\_01\_06                                     | ![metacarpus](./imgs/image%203.png)         |
 |           | - mdm02\_01\_07                                     |          |
 |           | - mdm02\_01\_11                                     |          |
 | Dito      |Assembly of the finger  `mdm02_02`, with the pieces:      |          |
