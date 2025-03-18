@@ -31,11 +31,13 @@ This project concerns the assembly and structure of the model mdm02. The project
 | Section   | Description                                         | Image |
 | --------- | --------------------------------------------------- | -------- |
 | ASM       |  Assembly file: `mdm02_00.asm`                      |          |
-| Metacarpo | Assembly of the metacarpus `mdm02_01`, with the pieces: |          |
-|           | - mdm02\_01\_06                                     | ![metacarpus](./imgs/image%203.png)         |
+| Metacarpus | Assembly of the metacarpus `mdm02_01`, with the pieces: |      ![metacarpus](./imgs/image%202.png)        |
+|           | - mdm02\_01\_06                                     |      |
 |           | - mdm02\_01\_07                                     |          |
 |           | - mdm02\_01\_11                                     |          |
-| Dito      |Assembly of the finger  `mdm02_02`, with the pieces:      |          |
+| | | |
+|          |  ![metacarpus](./imgs/image%201.png)| |    
+| Finger      |Assembly of the finger  `mdm02_02`, with the pieces:      |    ![metacarpus](./imgs/image%203.png)            |
 |           | - mdm02\_02\_03                                     |          |
 |           | - mdm02\_02\_14                                     |          |
 |           | - mdm02\_02\_08                                     |          |
@@ -44,8 +46,9 @@ This project concerns the assembly and structure of the model mdm02. The project
 |           | - mdm02\_02\_01                                     |          |
 |           | - mdm02\_02\_09                                     |          |
 |           |                                                     |          |
-|           |                                                     |          |
-| Thumb   | Assembly of the thumb `mdm02_03`, con i pezzi:   |          |
+|           |    ![metacarpus](./imgs/image%204.png)                                                       |    ![metacarpus](./imgs/image%205.png)            |
+||   ![metacarpus](./imgs/image%206.png)   || 
+| Thumb   | Assembly of the thumb `mdm02_03`, con i pezzi:   |           ![metacarpus](./imgs/image%207.png)     |
 |           | - mdm02\_03\_02                                     |          |
 |           | - mdm02\_03\_13                                     |          |
 |           | - mdm02\_03\_12                                     |          |
@@ -53,6 +56,7 @@ This project concerns the assembly and structure of the model mdm02. The project
 |           | - mdm02\_03\_15                                     |          |
 |           | - mdm02\_03\_09                                     |          |
 |           |                                                     |          |
+| |   ![metacarpus](./imgs/image%208.png) |   ![metacarpus](./imgs/image%209.png) |      
 
 ---
 
