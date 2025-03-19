@@ -38,19 +38,19 @@ This project concerns the assembly and structure of the model mdm02. The project
 |           |                                                     |                                       |                                               |
 |          |  ![metacarpus](./imgs/image%201.png)                 |   ![metacarpus](./imgs/image%202.png) |                                               | 
 | Finger      |Assembly of the finger  `mdm02_02`, with the pieces:|     |                                |                                               |
-|           | - mdm02\_02\_03                                     |                                       |                                               |
+|           | - mdm02\_02\_03                                     |         done                              |                                               |
 |           | - mdm02\_02\_14                                     |                                       |                                               |
 |           | - mdm02\_02\_08                                     |                                       |                                               |
-|           | - mdm02\_02\_10                                     |                                       |                                               |
-|           | - mdm02\_02\_05                                     |                                       |                                               |
+|           | - mdm02\_02\_10                                     |    done                                   |                                               |
+|           | - mdm02\_02\_05                                     |        done                               |                                               |
 |           | - mdm02\_02\_01                                     |                                       |                                               |
 |           | - mdm02\_02\_09                                     |                                       |                                               |
 |           |                                                     |                                       |                                               |
 |           |    ![metacarpus](./imgs/image%203.png)               |  ![metacarpus](./imgs/image%204.png)  |  ![metacarpus](./imgs/image%204.png)          |  
 |           |                                                     | ![metacarpus](./imgs/image%206.png)   |                                               | 
 | Thumb   | Assembly of the thumb `mdm02_03`, con i pezzi:   |                                            |                                               |
-|           | - mdm02\_03\_02                                     |                                       |                                               |
-|           | - mdm02\_03\_13                                     |                                       |                                               |
+|           | - mdm02\_03\_02                                     |           done                            |                                               |
+|           | - mdm02\_03\_13                                     |               done                        |                                               |
 |           | - mdm02\_03\_12                                     |                                       |                                               |
 |           | - mdm02\_03\_04                                     |                                       |                                               |
 |           | - mdm02\_03\_15                                     |                                       |                                               |
