@@ -8,7 +8,7 @@ This project concerns the assembly and structure of the model mdm02. The project
 
 Picture with all component numered (each component has the relative number at the bottom right if possible).
 
-![](parts/numered_components.jpg)
+![](imgs/numered_components.jpg)
 
 The components follow the name `mdm02_<part>_<piece's number>`:
 
