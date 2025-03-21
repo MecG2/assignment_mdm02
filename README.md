@@ -1,6 +1,6 @@
 # Assignment1
 
-Descrizione
+## Descrizione
 
 This project concerns the assembly and structure of the model mdm02. The project is divided into main components, each of which is described in detail with explanatory images and references to the pieces used.
 
