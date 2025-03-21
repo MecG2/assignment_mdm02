@@ -50,37 +50,37 @@ The components follow the name `mdm02_<part>_<piece's number>`:
     <td class="tg-0pky"></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_02_01</span></td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_04_01</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_05_01</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
   </tr>
   <tr>
     <td class="tg-0pky">2</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_03_02</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_04_02</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_05_02</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
   </tr>
   <tr>
     <td class="tg-0pky">3</td>
     <td class="tg-0pky"></td>
     <td class="tg-c3ow">mdm02_02_03</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_04_03</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_05_03</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
   </tr>
   <tr>
     <td class="tg-0pky">4</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_03_04</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_04_04</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">5</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_02_05</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
