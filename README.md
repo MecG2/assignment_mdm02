@@ -249,7 +249,4 @@ nstallation Instructions
 Verify the presence of all the listed components.
 Follow the guide images for assembly.
 Ensure the correct order of the pieces for proper assembly.
-## Autore
-
-Christian Negri Ravera
 
