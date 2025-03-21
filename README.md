@@ -39,7 +39,7 @@ This project concerns the assembly and structure of the model mdm02. The project
 |          |  ![metacarpus](./imgs/image%201.png)                 |   ![metacarpus](./imgs/image%202.png) |                                               | 
 | Finger      |Assembly of the finger  `mdm02_02`, with the pieces:|     |                                |                                               |
 |           | - mdm02\_02\_03                                     |         done                              |                                               |
-|           | - mdm02\_02\_14                                     |                                       |                                               |
+|           | - mdm02\_02\_14                                     |    done                               |                                               |
 |           | - mdm02\_02\_08                                     |                                       |                                               |
 |           | - mdm02\_02\_10                                     |    done                                   |                                               |
 |           | - mdm02\_02\_05                                     |        done                               |                                               |
