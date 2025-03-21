@@ -42,7 +42,8 @@ The components follow the name `mdm02_<part>_<piece's number>`:
     <th>Thumb<br>_03</th>
     <th>Fingers joints<br>_04</th>
     <th>Thumb joints<br>_05</th>
-  </tr></thead>
+  </tr>
+</thead>
 <tbody>
   <tr>
     <td rowspan="16">Pieces</td>
@@ -173,9 +174,10 @@ The components follow the name `mdm02_<part>_<piece's number>`:
     <td></td>
     <td></td>
   </tr>
+  <thead>
   <tr>
-    <td colspan="2">mdm02</td>
-    <td colspan="5">Assemblies</td>
+    <th colspan="2" rowspan="2">mdm02<br></th>
+    <th colspan="5">Assemblies</th>
   </tr>
   <tr>
     <td colspan="2">Total<br>_00</td>
@@ -185,6 +187,7 @@ The components follow the name `mdm02_<part>_<piece's number>`:
     <td>Fingers joints<br>_04</td>
     <td>Thumb joints<br>_05</td>
   </tr>
+  </thead>
   <tr>
     <td colspan="2">mdm02_00</td>
     <td>mdm02_01</td>
