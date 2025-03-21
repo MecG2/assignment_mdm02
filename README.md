@@ -195,7 +195,7 @@ The components follow the name `mdm02_<part>_<piece's number>`:
   </tr>
   <tr>
     <td colspan="2"></td>
-    <td>IMAGE01</td>
+    <td>![](./imgs/image%201.png) ![metacarpus](./imgs/image%202.png)</td>
     <td>IMAGE02</td>
     <td>IMAGE03</td>
     <td>IMAGE04</td>
@@ -238,7 +238,7 @@ The components follow the name `mdm02_<part>_<piece's number>`:
 |           | - mdm02\_01\_07                                     |                                       |                                               |
 |           | - mdm02\_01\_11                                     |                                       |                                               |  
 |           |                                                     |                                       |                                               |
-|          |  ![metacarpus](./imgs/image%201.png)                 |   ![metacarpus](./imgs/image%202.png) |                                               | 
+|          |                   |    |                                               | 
 | Finger      |Assembly of the finger  `mdm02_02`, with the pieces:|     |                                |                                               |
 |           | - mdm02\_02\_03                                     |         done                              |                                               |
 |           | - mdm02\_02\_14                                     |    done                               |                                               |
