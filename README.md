@@ -176,7 +176,7 @@ The components follow the name `mdm02_<part>_<piece's number>`:
   </tr>
   <thead>
   <tr>
-    <th colspan="2" rowspan="2">mdm02<br></th>
+    <th colspan="2">mdm02<br></th>
     <th colspan="5">Assemblies</th>
   </tr>
   <tr>
