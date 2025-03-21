@@ -46,133 +46,133 @@ The components follow the name `mdm02_<part>_<piece's number>`:
 </thead>
 <tbody>
   <tr>
-    <td rowspan="16">Pieces</td>
-    <td>1</td>
-    <td></td>
-    <td>mdm02_02_01</td>
-    <td></td>
-    <td>mdm02_04_01</td>
-    <td>mdm02_05_01</td>
+    <td class="tg-9wq8" rowspan="16">Pieces</td>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_02_01</span></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
   </tr>
   <tr>
-    <td>2</td>
-    <td></td>
-    <td></td>
-    <td>mdm02_03_02</td>
-    <td>mdm02_04_02</td>
-    <td>mdm02_05_02</td>
+    <td class="tg-0pky">2</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_03_02</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
   </tr>
   <tr>
-    <td>3</td>
-    <td></td>
-    <td>mdm02_02_03</td>
-    <td></td>
-    <td>mdm02_04_03</td>
-    <td>mdm02_05_03</td>
+    <td class="tg-0pky">3</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-c3ow">mdm02_02_03</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
   </tr>
   <tr>
-    <td>4</td>
-    <td></td>
-    <td></td>
-    <td>mdm02_03_04</td>
-    <td>mdm02_04_04</td>
-    <td></td>
+    <td class="tg-0pky">4</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_03_04</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td>5</td>
-    <td></td>
-    <td>mdm02_02_05</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td class="tg-0pky">5</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td>6</td>
-    <td>mdm02_01_06</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td class="tg-0pky">6</td>
+    <td class="tg-c3ow">mdm02_01_06</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td>7</td>
-    <td>mdm02_01_07</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td class="tg-0pky">7</td>
+    <td class="tg-c3ow">mdm02_01_07</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td>8</td>
-    <td></td>
-    <td>mdm02_02_08</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td class="tg-0pky">8</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_02_08</span></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td>9</td>
-    <td></td>
-    <td>mdm02_02_09</td>
-    <td>mdm02_03_09</td>
-    <td></td>
-    <td></td>
+    <td class="tg-0pky">9</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_02_09</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_02_09</span></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td>10</td>
-    <td></td>
-    <td>mdm02_02_10</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td class="tg-0pky">10</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_02_10</span></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td>11</td>
-    <td>mdm02_01_11</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td class="tg-0pky">11</td>
+    <td class="tg-c3ow">mdm02_01_11</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td>12</td>
-    <td></td>
-    <td></td>
-    <td>mdm02_03_12</td>
-    <td></td>
-    <td></td>
+    <td class="tg-0pky">12</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_03_12</span></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td>13</td>
-    <td></td>
-    <td></td>
-    <td>mdm02_03_13</td>
-    <td></td>
-    <td></td>
+    <td class="tg-0pky">13</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_03_13</span></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td>14</td>
-    <td></td>
-    <td>mdm02_02_14</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td class="tg-0pky">14</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_02_14</span></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td>15</td>
-    <td></td>
-    <td></td>
-    <td>mdm02_03_15</td>
-    <td></td>
-    <td></td>
+    <td class="tg-0pky">15</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_02_14 (same as piece 14)</span></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td>16</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td class="tg-0pky">16</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_03_16</span></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <thead>
   <tr>
