@@ -195,7 +195,7 @@ The components follow the name `mdm02_<part>_<piece's number>`:
   </tr>
   <tr>
     <td colspan="2"></td>
-    <td>![](./imgs/image%201.png) ![metacarpus](./imgs/image%202.png)</td>
+    <td><img src="./imgs/image%201.png" alt="metacarpus"> <img src="./imgs/image%202.png" alt="metacarpus"></td>
     <td>IMAGE02</td>
     <td>IMAGE03</td>
     <td>IMAGE04</td>
