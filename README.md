@@ -21,16 +21,6 @@ Dove:
 
 This project concerns the assembly and structure of the model mdm02. The project is divided into main components, each of which is described in detail with explanatory images and references to the pieces used.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 626px"><colgroup>
 <col style="width: 54px">
 <col style="width: 27px">
@@ -202,7 +192,8 @@ This project concerns the assembly and structure of the model mdm02. The project
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_04</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_05</span></td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 
 ## Componenti Principali e Movimenti
