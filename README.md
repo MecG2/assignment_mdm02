@@ -203,7 +203,7 @@ To do:
 - [ ] Part 4
 - [x] Part 5
 - [ ] Part 6
-- [ ] Part 7
+- [x] Part 7
 - [ ] Part 8
 - [ ] Part 9
 - [x] Part 10
