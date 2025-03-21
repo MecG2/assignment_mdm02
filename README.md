@@ -197,7 +197,7 @@ The components follow the name `mdm02_<part>_<piece's number>`:
     <td colspan="2"></td>
     <td><img src="./imgs/image%201.png" alt="metacarpus"> <img src="./imgs/image%202.png" alt="metacarpus"></td>
     <td><img src="./imgs/image%203.png" alt="fingers"> <img src="./imgs/image%204.png" alt="fingers"> <img src="./imgs/image%205.png" alt="fingers"> <img src="./imgs/image%206.png" alt="fingers"></td>
-    <td><img src="./imgs/image%207.png" alt="fingers"> <img src="./imgs/image%208.png" alt="fingers"> <img src="./imgs/image%209.png" alt="fingers"></td>
+    <td><img src="./imgs/image%207.png" alt="thumb"> <img src="./imgs/image%208.png" alt="thumb"> <img src="./imgs/image%209.png" alt="thumb"></td>
     <td></td>
     <td></td>
   </tr>
