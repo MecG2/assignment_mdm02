@@ -1,25 +1,26 @@
 # Assignment1
 
-![Scanned Document-1](https://github.com/user-attachments/assets/2954b55b-81ef-463b-bb45-903242d63e42)
-# Progetto Nanimg
-
-## Formato dei Componenti
-
-I componenti seguono il formato:
-
-```
-mdm02_parte_pezzo
-```
-
-Dove:
-
-- **mdm02**: Project name  
-- **parte**: Select part (e.g., 01 for metacarpus, 02 for finger, 03 for thumb)
-- **pezzo**: Unique identifier for the piece within the part
-
-## Descrizione
+Descrizione
 
 This project concerns the assembly and structure of the model mdm02. The project is divided into main components, each of which is described in detail with explanatory images and references to the pieces used.
+
+## Nomenclature
+
+Picture with all component numered (each component has the relative number at the bottom right if possible).
+
+// ADD Image here
+
+The components follow the name `mdm02_<part>_<piece's number>`:
+
+- `mdm`: Mechaninca Design;
+- `02`: Group number;
+- `<part>`: Subgrup of the hand:
+  - `01`: Metacarpus;
+  - `02`: Fingers;
+  - `03`: Thumb;
+  - `04`: Finger joints;
+  - `05`: Thumb joints.
+- `<piece's number>`: Identifier of the piece refered to the picture
 
 <table class="tg" style="undefined;table-layout: fixed; width: 626px"><colgroup>
 <col style="width: 54px">
