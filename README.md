@@ -51,7 +51,7 @@ This project concerns the assembly and structure of the model mdm02. The project
 | Thumb   | Assembly of the thumb `mdm02_03`, con i pezzi:   |                                            |                                               |
 |           | - mdm02\_03\_02                                     |           done                            |                                               |
 |           | - mdm02\_03\_13                                     |               done                        |                                               |
-|           | - mdm02\_03\_12                                     |                                       |                                               |
+|           | - mdm02\_03\_12                                     |           done                            |                                               |
 |           | - mdm02\_03\_04                                     |                                       |                                               |
 |           | - mdm02\_03\_15                                     |                                       |                                               |
 |           | - mdm02\_03\_09                                     |                                       |                                               |
