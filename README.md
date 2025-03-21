@@ -161,7 +161,7 @@ The components follow the name `mdm02_<part>_<piece's number>`:
     <td class="tg-0pky">15</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_03_15</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_02_14 (same as piece 14)</span></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
@@ -169,7 +169,7 @@ The components follow the name `mdm02_<part>_<piece's number>`:
     <td class="tg-0pky">16</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_03_16</span></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
