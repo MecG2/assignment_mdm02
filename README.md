@@ -22,7 +22,7 @@ Dove:
 This project concerns the assembly and structure of the model mdm02. The project is divided into main components, each of which is described in detail with explanatory images and references to the pieces used.
 
 
-```html
+```
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
