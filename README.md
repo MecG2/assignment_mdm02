@@ -196,7 +196,8 @@ The components follow the name `mdm02_<part>_<piece's number>`:
 </tbody>
 </table>
 
-To do:
+## To do:
+
 - [x] Part 1
 - [x] Part 2
 - [x] Part 3
@@ -220,8 +221,7 @@ To do:
 - [ ] Assembly Thumb joints
 - [ ] Total assembly
 
-## Componenti Principali e Movimenti
-
+--- Delete below ?
 
 | Section   | Description                                         | Image                                 |                  image                        |
 | --------- | --------------------------------------------------- | ------------------------------------- |-----------------------------------------------|
