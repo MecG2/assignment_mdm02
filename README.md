@@ -22,179 +22,186 @@ The components follow the name `mdm02_<part>_<piece's number>`:
   - `05`: Thumb joints.
 - `<piece's number>`: Identifier of the piece refered to the picture
 
-<table class="tg" style="undefined;table-layout: fixed; width: 626px"><colgroup>
-<col style="width: 54px">
-<col style="width: 27px">
-<col style="width: 104px">
-<col style="width: 129px">
-<col style="width: 104px">
-<col style="width: 104px">
-<col style="width: 104px">
+<table style="undefined;table-layout: fixed; width: 645px"><colgroup>
+<col style="width: 56px">
+<col style="width: 28px">
+<col style="width: 107px">
+<col style="width: 133px">
+<col style="width: 107px">
+<col style="width: 107px">
+<col style="width: 107px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-9wq8" colspan="2" rowspan="2">mdm02<br></th>
-    <th class="tg-c3ow" colspan="5"><span style="font-weight:bold">Parts</span></th>
+    <th colspan="2" rowspan="2">mdm02<br></th>
+    <th colspan="5">Parts</th>
   </tr>
   <tr>
-    <th class="tg-c3ow">Metacarpus<br>_01</th>
-    <th class="tg-c3ow">Fingers<br>_02</th>
-    <th class="tg-c3ow">Thumb<br>_03</th>
-    <th class="tg-c3ow">Fingers joints<br>_04</th>
-    <th class="tg-c3ow">Thumb joints<br>_05</th>
+    <th>Metacarpus<br>_01</th>
+    <th>Fingers<br>_02</th>
+    <th>Thumb<br>_03</th>
+    <th>Fingers joints<br>_04</th>
+    <th>Thumb joints<br>_05</th>
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-9wq8" rowspan="16">Pieces</td>
-    <td class="tg-0pky">1</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_02_01</span></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
+    <td rowspan="16">Pieces</td>
+    <td>1</td>
+    <td></td>
+    <td>mdm02_02_01</td>
+    <td></td>
+    <td>mdm02_04_01</td>
+    <td>mdm02_05_01</td>
   </tr>
   <tr>
-    <td class="tg-0pky">2</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_03_02</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
+    <td>2</td>
+    <td></td>
+    <td></td>
+    <td>mdm02_03_02</td>
+    <td>mdm02_04_02</td>
+    <td>mdm02_05_02</td>
   </tr>
   <tr>
-    <td class="tg-0pky">3</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-c3ow">mdm02_02_03</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
+    <td>3</td>
+    <td></td>
+    <td>mdm02_02_03</td>
+    <td></td>
+    <td>mdm02_04_03</td>
+    <td>mdm02_05_03</td>
   </tr>
   <tr>
-    <td class="tg-0pky">4</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_03_04</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
-    <td class="tg-0pky"></td>
+    <td>4</td>
+    <td></td>
+    <td></td>
+    <td>mdm02_03_04</td>
+    <td>mdm02_04_04</td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-0pky">5</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td>5</td>
+    <td></td>
+    <td>mdm02_02_05</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-0pky">6</td>
-    <td class="tg-c3ow">mdm02_01_06</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
+    <td>6</td>
+    <td>mdm02_01_06</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-0pky">7</td>
-    <td class="tg-c3ow">mdm02_01_07</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
+    <td>7</td>
+    <td>mdm02_01_07</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-0pky">8</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_02_08</span></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td>8</td>
+    <td></td>
+    <td>mdm02_02_08</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-0pky">9</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_02_09</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_02_09</span></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td>9</td>
+    <td></td>
+    <td>mdm02_02_09</td>
+    <td>mdm02_03_09</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-0pky">10</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_02_10</span></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td>10</td>
+    <td></td>
+    <td>mdm02_02_10</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-0pky">11</td>
-    <td class="tg-c3ow">mdm02_01_11</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td>11</td>
+    <td>mdm02_01_11</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-0pky">12</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_03_12</span></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td>12</td>
+    <td></td>
+    <td></td>
+    <td>mdm02_03_12</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-0pky">13</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_03_13</span></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td>13</td>
+    <td></td>
+    <td></td>
+    <td>mdm02_03_13</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-0pky">14</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_02_14</span></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-c3ow"></td>
+    <td>14</td>
+    <td></td>
+    <td>mdm02_02_14</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-0pky">15</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_02_14 (same as piece 14)</span></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td>15</td>
+    <td></td>
+    <td></td>
+    <td>mdm02_03_15</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-0pky">16</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_03_16</span></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td>16</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-9wq8" colspan="2">mdm02</td>
-    <td class="tg-c3ow" colspan="5"><span style="font-weight:bold">Assemblies</span></td>
+    <td colspan="2">mdm02</td>
+    <td colspan="5">Assemblies</td>
   </tr>
   <tr>
-    <td class="tg-9wq8" colspan="2">Total<br>_00</td>
-    <td class="tg-c3ow">Metacarpus<br>_01</td>
-    <td class="tg-c3ow">Fingers<br>_02</td>
-    <td class="tg-c3ow">Thumb<br>_03</td>
-    <td class="tg-c3ow">Fingers joints<br>_04</td>
-    <td class="tg-c3ow">Thumb joints<br>_05</td>
+    <td colspan="2">Total<br>_00</td>
+    <td>Metacarpus<br>_01</td>
+    <td>Fingers<br>_02</td>
+    <td>Thumb<br>_03</td>
+    <td>Fingers joints<br>_04</td>
+    <td>Thumb joints<br>_05</td>
   </tr>
   <tr>
-    <td class="tg-0pky" colspan="2">mdm02_00</td>
-    <td class="tg-0pky">mdm02_01</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_02</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_03</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_04</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_05</span></td>
+    <td colspan="2">mdm02_00</td>
+    <td>mdm02_01</td>
+    <td>mdm02_02</td>
+    <td>mdm02_03</td>
+    <td>mdm02_04</td>
+    <td>mdm02_05</td>
   </tr>
-</tbody>
-</table>
+  <tr>
+    <td colspan="2"></td>
+    <td>IMAGE01</td>
+    <td>IMAGE02</td>
+    <td>IMAGE03</td>
+    <td>IMAGE04</td>
+    <td>IMAGE05</td>
+  </tr>
+</tbody></table>
 
 ## To do:
 
