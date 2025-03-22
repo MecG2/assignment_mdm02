@@ -208,16 +208,16 @@ The components follow the name `mdm02_<part>_<piece's number>`:
 
 ## To do:
 
-- [x] Part 1
+- [x] Part 1 - balgian
 - [x] Part 2
 - [x] Part 3
 - [ ] Part 4
 - [x] Part 5
 - [ ] Part 6
-- [x] Part 7
+- [x] Part 7 - balgian
 - [ ] Part 8
 - [ ] Part 9
-- [x] Part 10
+- [x] Part 10 -balgian
 - [ ] Part 11
 - [x] Part 12
 - [x] Part 13
