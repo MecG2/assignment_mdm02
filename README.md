@@ -223,7 +223,7 @@ The components follow the name `mdm02_<part>_<piece's number>`:
 - [x] Part 13
 - [x] Part 14
 - [x] Part 15
-- [ ] Part 16
+- [x] Part 16 - xxxxxChristian02xxxxx
 - [ ] Assebly Metacarpus
 - [ ] Assembly Fingers
 - [ ] Assembly Thumbs
