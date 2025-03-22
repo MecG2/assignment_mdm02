@@ -212,14 +212,14 @@ The components follow the name `mdm02_<part>_<piece's number>`:
 - [x] Part 2
 - [x] Part 3
 - [ ] Part 4
-- [x] Part 5
+- [x] Part 5 - xxxxxChristian02xxxxx
 - [ ] Part 6
 - [x] Part 7 - balgian
 - [ ] Part 8
 - [ ] Part 9
 - [x] Part 10 -balgian
 - [ ] Part 11
-- [x] Part 12
+- [x] Part 12 - xxxxxChristian02xxxxx
 - [x] Part 13
 - [x] Part 14
 - [x] Part 15
