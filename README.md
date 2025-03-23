@@ -204,29 +204,5 @@ The components follow the name `mdm02_<part>_<piece's number>`:
     <td></td>
     <td></td>
   </tr>
-</tbody></table>
-
-## To do:
-
-- [x] Part 1 - balgian
-- [x] Part 2
-- [x] Part 3
-- [ ] Part 4
-- [x] Part 5 - xxxxxChristian02xxxxx
-- [ ] Part 6
-- [x] Part 7 - balgian
-- [ ] Part 8
-- [ ] Part 9
-- [x] Part 10 -balgian
-- [ ] Part 11
-- [x] Part 12 - xxxxxChristian02xxxxx
-- [x] Part 13
-- [x] Part 14
-- [x] Part 15
-- [x] Part 16 - xxxxxChristian02xxxxx
-- [ ] Assebly Metacarpus
-- [ ] Assembly Fingers
-- [ ] Assembly Thumbs
-- [ ] Assembly Fingers joints
-- [ ] Assembly Thumb joints
-- [ ] Total assembly
+</tbody>
+</table>
