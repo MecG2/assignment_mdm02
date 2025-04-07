@@ -81,7 +81,7 @@ The components follow the name `mdm02_<part>_<piece's number>`:
   <tr>
     <td class="tg-0pky">5</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none"></span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">mdm02_02_05</span></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
