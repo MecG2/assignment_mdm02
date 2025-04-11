@@ -206,3 +206,7 @@ The components follow the name `mdm02_<part>_<piece's number>`:
   </tr>
 </tbody>
 </table>
+
+## Task Assignment
+
+Harvest a vine grape. one or two of the fingers must be modified to scissor the shoot while the rest of the hand, palm and finger, must gently hold the grape
